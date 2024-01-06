@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/saurabh tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh tripathi" height="30" width="40" /></a>
 <a href="https://instagram.com/saurabh_tripathi_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh_tripathi_1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/smart techies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smart techies" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/smart techies" target="blank"><img align="center" src="https://www.youtube.com/@smarttechies2336" alt="smart techies" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saurabh_tri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saurabh_tri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/m_36_saurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m_36_saurabh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saurabh_tri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabh_tri" height="30" width="40" /></a>
